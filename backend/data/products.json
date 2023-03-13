@@ -1,0 +1,66 @@
+[
+  {
+    "name": "samsung",
+    "price": 270,
+    "description": "new worst phone ",
+    "ratings": 4,
+    "images": [
+      {
+        "image": "product.jpg"
+      }
+    ],
+    "category": "Mobile/Laptop",
+    "seller": "Amazon",
+    "stock": 5,
+    "numOfReviews": 14,
+    "reviews": []
+  },
+  {
+    "name": "halwkingBooks",
+    "price": 34,
+    "description": "career book for generation ",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "product.jpg"
+      }
+    ],
+    "category": "Books",
+    "seller": "FlipKart",
+    "stock": 5,
+    "numOfReviews": 14,
+    "reviews": []
+  },
+  {
+    "name": "NikeShowes",
+    "price": 16,
+    "description": "latest casuel show",
+    "ratings": 3,
+    "images": [
+      {
+        "image": "product.jpg"
+      }
+    ],
+    "category": "Clothes/Shoes",
+    "seller": "Myntra",
+    "stock": 5,
+    "numOfReviews": 14,
+    "reviews": []
+  },
+  {
+    "name": "Basics Shirts",
+    "price": 200,
+    "description": "casuaal cotten shirt",
+    "ratings": 1,
+    "images": [
+      {
+        "image": "product.jpg"
+      }
+    ],
+    "category": "Clothes/Shoes",
+    "seller": "Myntra",
+    "stock": 5,
+    "numOfReviews": 14,
+    "reviews": []
+  }
+]
