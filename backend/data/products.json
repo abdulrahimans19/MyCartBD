@@ -6,7 +6,7 @@
     "ratings": 4,
     "images": [
       {
-        "image": "product.jpg"
+        "image": "/images/products/1.jpg"
       }
     ],
     "category": "Mobile/Laptop",
@@ -22,7 +22,7 @@
     "ratings": 5,
     "images": [
       {
-        "image": "product.jpg"
+        "image": "/images/products/2.jpg"
       }
     ],
     "category": "Books",
@@ -38,7 +38,7 @@
     "ratings": 3,
     "images": [
       {
-        "image": "product.jpg"
+        "image": "/images/products/3.jpg"
       }
     ],
     "category": "Clothes/Shoes",
@@ -54,7 +54,7 @@
     "ratings": 1,
     "images": [
       {
-        "image": "product.jpg"
+        "image": "/images/products/4.jpg"
       }
     ],
     "category": "Clothes/Shoes",

@@ -2,7 +2,7 @@ const ProductModel = require("../models/ProductModel");
 const APIFeatures = require("../utils/apiFeatures");
 
 exports.getProducts = async (req, res, next) => {
-  const resPage = 2;
+  const resPage = 3;
   const apiFeatures = new APIFeatures(ProductModel.find(), req.query)
     .search()
     .filter(resPage);
